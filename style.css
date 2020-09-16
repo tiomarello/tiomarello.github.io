@@ -104,3 +104,52 @@ a{
     font-size: 15px;
     color: grey;
 }
+
+/*Project Styling*/
+
+.projectseperator{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: -10px;
+    width: 75%;
+}
+
+.projectBox{
+    display: flex;
+    flex-flow: row;
+    margin: auto;
+    height: 200px;
+    width: 75%;
+}
+
+.projectImg{
+    height: 200px;
+    width:200px;
+    object-fit: cover;
+}
+
+.projectText{
+    display: flex;
+    flex-flow: column;
+    align-content: flex-start;
+}
+.projectTitle{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    text-align: left;
+    font-size: 20px;
+}
+.projectDescription{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
