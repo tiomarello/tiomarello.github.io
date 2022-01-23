@@ -126,7 +126,7 @@ a{
     display: flex;
     flex-flow: row;
     margin: auto;
-    height: 200px;
+    overflow: auto;
     width: 75%;
 }
 
@@ -155,5 +155,7 @@ a{
     text-align: left;
     margin-left: 20px;
 }
+
+
 
 
