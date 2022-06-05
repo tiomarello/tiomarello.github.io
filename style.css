@@ -84,7 +84,12 @@ a{
 .linkimage{
     height: 100%;
     width: auto;
+    transition: 0.25s ease;
 }
+.linkimage:hover{
+    transform:translateY(-10px);
+}
+
 
 /*Work Experience Page*/
 .jobBox{
