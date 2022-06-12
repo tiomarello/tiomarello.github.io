@@ -129,6 +129,7 @@ a{
 
 .projectBox{
     display: flex;
+    align-items: center;
     flex-flow: row;
     margin: auto;
     overflow: auto;
@@ -169,4 +170,118 @@ a{
     color: grey;
 }
 
+#modal{
+    z-index: 1;
+    background: white;
+    position: fixed;
+    height: 600px;
+    width: 700px;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -350px;
+    display: grid;
+    grid-template-rows: 1fr 1.5fr;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 10px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
 
+}
+#modal-header{
+    background-color: white;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    display: flex;
+    grid-column: 1/4;
+    grid-row: 1;
+    justify-content: left;
+}
+#modal-button{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    grid-column: 4;
+    grid-row: 1;
+    background-color: white;
+    border: none;
+}
+#modal-header-text{
+    font-family: 'Poppins', sans-serif;
+    height: auto;
+    width: auto;
+    margin: 5px 0px 5px 0px;
+
+}
+#modal-header-subtext{
+    font-family: 'Poppins', sans-serif;
+    height: auto;
+    width: auto;
+    
+}
+#modal-skill-container{
+    grid-row: 2;
+    grid-column: 3/5;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    align-items: center;
+}
+#modal-skill-header{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.modal-skill-text
+{
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+#modal-text{
+    padding: 10px 10px 0px 0px;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    height: auto;
+    width: auto;
+    font-family: 'Poppins', sans-serif;
+    grid-column: 1/3;
+    grid-row:2;
+    background-color: white;
+    overflow: hidden;
+}
+
+.modal-hidden-text{
+    display:none
+}
+.modal-hidden-skill{
+    display:none;
+}
+.modal-hidden-image{
+    display:none
+
+}
+.modal-expand-button-img{
+    height: 50px;
+    width: 50px;
+}
+.modal-expand-button{
+    height: auto;
+    width: auto;
+    border: none;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}

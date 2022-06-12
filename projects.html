@@ -1,13 +1,16 @@
-<hhtml>
+<html>
 
     <head>
         <link rel="stylesheet" href="style.css">
         <title>Tio Marello's Resume</title>
+        <script src="scripts/modal.js" defer></script>
     </head>
 
 
         <body>
             
+            
+
             <div class="titlebar" style="justify-content: space-evenly; flex-grow: 2;">
                 <a href="index.html"><h1 class="title"><</h1></a>
                 <h1 class="title">Tio Marello</h1>
@@ -15,21 +18,39 @@
                 <h1 class="title">570-301-6797</h1>
             </div>
             
+            <div id="modal">
+                <div id="modal-header">
+                    <h1 id="modal-header-text">Lorem ipsum dolor sit amet.</h1>
+                    <h2 id="modal-header-subtext">Date: 2020</h2>
+                </div>
+                <button id="modal-button">X</button>
+                <div id="modal-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo corrupti praesentium, explicabo ipsa nisi, doloremque libero, sit natus delectus itaque quaerat sapiente. Culpa maxime aut neque, totam nostrum modi pariatur reiciendis veniam sunt sit exercitationem ex sed excepturi quaerat ut a similique quibusdam corrupti deserunt adipisci? Vitae error facere ipsum?</div>
+                <div id="modal-skill-container">
+                    <h1 id="modal-skill-header">Skills</h1>
+                    <!-- <p class="modal-skill-text">Lorem ipsum dolor sit amet.</p> -->
+                    
+                </div>
+            </div>
+
             <hr class="hrseperator">
 
             <div class="bigTextContainer">
                 <h1 class="bigTitle">Projects</h1>
             </div>
-
+            <hr class="projectseperator">
             <div class="projectBox">
                 <img class="projectImg" src="img/tetris.png">
                 <div class="projectText">
-                    <h1 class="projectTitle">Two-player Tetris using pygame</h1>
+                    <h1 class="projectTitle">Two-player Tetris using Pygame</h1>
                     <h1 class="projectTitle">2022</h1>
-                    <p class="projectDescription">Used a Raspberry Pi and LEDS to show the temperature in cities using a webpage.
-                    </p>
-                    <p class="projectAccomplishment">>Used Python to program a Raspberry PI connected to physical devices.</p>
-                    <p class="projectAccomplishment">>Utilized a weather API to pull concurrent weather data.</p>
+                    <p class="projectDescription">Collaborated with three other classmates to create a Tetris-like game as a final CS1 project.</p>
+                    <p class="projectAccomplishment">>Collaborated in realtime with peers to create design goals.</p>
+                    <p class="projectAccomplishment">>Utilized third-party python libraries to develop sophisticated solutions.</p>
+                    <button class="modal-expand-button"><p class="projectAccomplishment">>Click For More</p></button>
+                    <!--Hidden Information-->
+                    <p class="modal-hidden-text">In collaboration with four other classmates, we created a two-player tetris game using Python and the library Pygame. We broke up the game into different components, such as graphics, block-spawning, player-movement, scoring, and used that to guide our development.</p>
+                    <p class="modal-hidden-skill">Python</p>
+                    <p class="modal-hidden-skill">Pygame</p>
                 </div>
             </div>
 
@@ -44,6 +65,13 @@
                     </p>
                     <p class="projectAccomplishment">>Used Python to program a Raspberry PI connected to physical devices.</p>
                     <p class="projectAccomplishment">>Utilized a weather API to pull concurrent weather data.</p>
+                    <button class="modal-expand-button"><p class="projectAccomplishment">>Click For More</p></button>
+                    <!--Hidden Information-->
+                    <p class="modal-hidden-text">Me and another student at my high school developed a simple applet on the raspberry pi that used the openweather api to fetch the temperature of a city the user inputted. We then used python and the GPIO pins to indicate the temperature with LED's.</p>
+                    <p class="modal-hidden-skill">Python</p>
+                    <p class="modal-hidden-skill">Microcontrollers</p>
+                    <p class="modal-hidden-skill">Accessing API's</p>
+
                 </div>
             </div>
 
@@ -59,6 +87,8 @@
                     </p>
                     <p class="projectAccomplishment">>Coordinated two sub-teams to accomplish a single goal.</p>
                     <p class="projectAccomplishment">>Communicated differing goals and directions and mediated differing team viewpoints.</p>
+                    <button class="modal-expand-button"><p class="projectAccomplishment">>Click For More</p></button>
+                    <p class="modal-hidden-text">Me and another student at my high school developed a simple applet on the raspberry pi that used the openweather api to fetch the temperature of a city the user inputted. We then used python and the GPIO pins to indicate the temperature with LED's.</p>
                 </div>
             </div>
 
@@ -73,6 +103,8 @@
                         Best Award engineering competition; awarded second place.
                     </p>
                     <p class="projectAccomplishment">>Used C# and the Unity Game Engine to solve in-game design problems.</p>
+                    <button class="modal-expand-button"><p class="projectAccomplishment">>Click For More</p></button>
+                    <p class="modal-hidden-text">Me and another student at my high school developed a simple applet on the raspberry pi that used the openweather api to fetch the temperature of a city the user inputted. We then used python and the GPIO pins to indicate the temperature with LED's.</p>
                 </div>
             </div>
 
@@ -88,9 +120,11 @@
                     </p>
                     <p class="projectAccomplishment">>Used the arduino platform and programming language to control physical systems.</p>
                     <p class="projectAccomplishment">>Collaborated with a peer over a long-term period in order to create this project.</p>
+                    <button class="modal-expand-button"><p class="projectAccomplishment">>Click For More</p></button>
+                    <p class="modal-hidden-text">Me and another student at my high school developed a simple applet on the raspberry pi that used the openweather api to fetch the temperature of a city the user inputted. We then used python and the GPIO pins to indicate the temperature with LED's.</p>
                 </div>
             </div>
 
         </body>
 
-</hhtml>
+</html>
