@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Boston College 2025 | Tufts University School of Medicine 2030 
 
 profile:
   align: right
