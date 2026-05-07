@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an M1 @ Tufts University School of Medicine. Graduated from Boston College 25' with experiences working on waste-water biosensors using microelectronics and pythons. Currently interested in IM and EM, and always interested exploring the opprotunities to expand care for the most underserved. Please feel free to reach out (and say hello if you see on my bike!) 
+Hi! I am an M1 @ Tufts University School of Medicine. Graduated from Boston College 25' with experiences working on waste-water biosensors using microelectronics and pythons. Currently interested in IM and EM, and always interested exploring the opprotunities to expand care for the most underserved. Please feel free to reach out (and say hello if you see me on my bike!) 
 
