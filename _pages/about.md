@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an M1 @ Tufts University School of Medicine. Graduated from Boston College 25' with experiences working on waste-water biosensors using microelectronics and pythons. Currently interested in IM and EM, and always interested exploring the opprotunities to expand care for the most underserved. Please feel free to reach out (and say hello if you see me on my bike!) 
+Hi! I am an M1 @ Tufts University School of Medicine. Graduated from Boston College '25 with experiences working on waste-water biosensors using microelectronics and pythons. Currently interested in IM and EM, and always interested exploring the opportunities to expand care for the most underserved. Please feel free to reach out (and say hello if you see me on my bike!) 
 
