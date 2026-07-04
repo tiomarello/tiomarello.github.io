@@ -6,25 +6,23 @@ cv:
   photo:
   phone: "+1 570 301 6797 "
   website: https://tiomarello.github.io/
-  social_networks: []
-  custom_connections:
+ 
   sections:
-    education:
+    Education:
       - institution: Tufts University School of Medicine
-        area: ""
+        location: Boston, MA 
         degree: M.D.
-        start_date: "2026"
+        start_date: 2026
         end_date: present
-        location: "Boston, MA "
+        
+        
       - institution: Boston College
         area: Biology
         degree: B.S.
-        date:
         start_date: 2021-08
         end_date: 2025-05
         location: "Chestnut Hill, MA "
-        summary: "Graduated with a Bachelor's in Biology, working in the intersection of
-          biology, technology, and physics. "
+        summary: "Graduated with a Bachelor's in Biology, working in the intersection of biology, technology, and physics. "
         highlights:
           - Worked in a wet-lab context with the aim of synthesizing nucleic
             acid probes for biosensors.
