@@ -22,16 +22,15 @@ cv:
         date:
         start_date: 2021-08
         end_date: 2025-05
-        location: Chestnut Hill, MA 
-        summary: Graduated with a Bachelor's in Biology, working in the intersection of
-          biology, technology, and physics. 
+        location: "Chestnut Hill, MA"
+        summary: "Graduated with a Bachelor's in Biology, working in the intersection of biology, technology, and physics."
         highlights:
-          - Worked in a wet-lab context with the aim of synthesizing nucleic acid probes for biosensors.
-          - Created portable biosensing solutions using self-taught python and PCB design skills, allowing for the publication of two academic papers on biosensing. 
+          - "Worked in a wet-lab context with the aim of synthesizing nucleic acid probes for biosensors."
+          - "Created portable biosensing solutions using self-taught python and PCB design skills, allowing for the publication of two academic papers on biosensing." 
     Research Experience:
       - company: "Burch Lab, Boston College"
         position: Research Assistant
-        location: Boston, MA
+        location: "Boston, MA"
         start_date: "2022-11"
         end_date: "2025-05"
         highlights:
@@ -47,7 +46,7 @@ cv:
             of oligonucleotide-based aptamer probes.
           - "Create, run, and analyze PAGE and Agarose gels to quantify
             nucleotide synthesis efficacy.  "
-    publications:
+    Publications:
       - title: Electrical readout strategies of GFET biosensors for real-world
           requirements
         authors:
