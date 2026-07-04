@@ -15,13 +15,12 @@ cv:
         degree: M.D.
         start_date: 2026
         end_date: present
-        location: Boston, MA 
+        location: "Boston, MA" 
       - institution: Boston College
         area: Biology
         degree: B.S.
-        date:
-        start_date: 2021-08
-        end_date: 2025-05
+        start_date: "2021-08"
+        end_date: "2025-05"
         location: "Chestnut Hill, MA"
         summary: "Graduated with a Bachelor's in Biology, working in the intersection of biology, technology, and physics."
         highlights:
@@ -36,16 +35,14 @@ cv:
         highlights:
           - "Assist in the fabrication of graphene-based biosensors for waste-water epidemiology."
           - "Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions."
-      - company: Meyer Lab, Boston College
+      - company: "Meyer Lab, Boston College"
         position: Research Assistant
-        location: Chestnut Hill, MA
-        start_date: 2023-08
-        end_date: 2024-05
+        location: "Chestnut Hill, MA"
+        start_date: "2023-08"
+        end_date: "2024-05"
         highlights:
-          - Work directly with a graduate student and assist in the development
-            of oligonucleotide-based aptamer probes.
-          - "Create, run, and analyze PAGE and Agarose gels to quantify
-            nucleotide synthesis efficacy.  "
+          - "Work directly with a graduate student and assist in the development of oligonucleotide-based aptamer probes."
+          - "Create, run, and analyze PAGE and Agarose gels to quantify nucleotide synthesis efficacy."
     Publications:
       - title: Electrical readout strategies of GFET biosensors for real-world
           requirements
@@ -83,7 +80,7 @@ cv:
         url:
         journal: ACS Applied Bio Materials
         date: 2024-07
-    clinical_experience:
+    Clinical Experience:
       - company: "Boston Eye Physicians and Surgeons "
         position: "Ophthalmic Technician and Scribe "
         date:
