@@ -26,7 +26,8 @@ cv:
         highlights:
           - "Worked in a wet-lab context with the aim of synthesizing nucleic acid probes for biosensors."
           - "Created portable biosensing solutions using self-taught python and PCB design skills, allowing for the publication of two academic papers on biosensing." 
-    Research Experience:
+    
+    Research Eexperience:
       - company: "Burch Lab, Boston College"
         position: Research Assistant
         location: "Boston, MA"
@@ -35,6 +36,7 @@ cv:
         highlights:
           - "Assist in the fabrication of graphene-based biosensors for waste-water epidemiology."
           - "Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions."
+      
       - company: "Meyer Lab, Boston College"
         position: Research Assistant
         location: "Chestnut Hill, MA"
@@ -43,6 +45,7 @@ cv:
         highlights:
           - "Work directly with a graduate student and assist in the development of oligonucleotide-based aptamer probes."
           - "Create, run, and analyze PAGE and Agarose gels to quantify nucleotide synthesis efficacy."
+    
     Publications:
       - title: Electrical readout strategies of GFET biosensors for real-world
           requirements
