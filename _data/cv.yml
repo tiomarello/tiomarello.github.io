@@ -6,41 +6,37 @@ cv:
   photo:
   phone: "+1 570 301 6797 "
   website: https://tiomarello.github.io/
- 
+  social_networks: []
+  custom_connections:
   sections:
     Education:
       - institution: Tufts University School of Medicine
-        location: Boston, MA 
+        area: ""
         degree: M.D.
         start_date: 2026
         end_date: present
-        
-        
+        location: Boston, MA 
       - institution: Boston College
         area: Biology
         degree: B.S.
+        date:
         start_date: 2021-08
         end_date: 2025-05
-        location: "Chestnut Hill, MA "
-        summary: "Graduated with a Bachelor's in Biology, working in the intersection of biology, technology, and physics. "
+        location: Chestnut Hill, MA 
+        summary: Graduated with a Bachelor's in Biology, working in the intersection of
+          biology, technology, and physics. 
         highlights:
-          - Worked in a wet-lab context with the aim of synthesizing nucleic
-            acid probes for biosensors.
-          - "Created portable biosensing solutions using self-taught python and
-            PCB design skills, allowing for the publication of two academic
-            papers on biosensing. "
-    research_experience:
+          - Worked in a wet-lab context with the aim of synthesizing nucleic acid probes for biosensors.
+          - Created portable biosensing solutions using self-taught python and PCB design skills, allowing for the publication of two academic papers on biosensing. 
+    Research Experience:
       - company: Burch Lab, Boston College
         position: Research Assistant
         location: Boston, MA
         start_date: 2022-11
         end_date: 2025-05
         highlights:
-          - Assist in the fabrication of graphene-based biosensors for
-            waste-water epidemiology.
-          - Collaborate with cross-disciplinary partners in both Biology and
-            Engineering to create widely adoptable, scalable biosensing
-            solutions.
+          - Assist in the fabrication of graphene-based biosensors for waste-water epidemiology.
+          - Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions.
       - company: Meyer Lab, Boston College
         position: Research Assistant
         location: Chestnut Hill, MA
