@@ -5,45 +5,18 @@ cv:
   location: Boston, MA
   image: ""
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Boston College
+        location: Chestnut Hill, MA
+        area: Biology
+        studyType: B.S.
+        start_date: 2021
+        end_date: 2025
+        score: "3.99 GPA"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - "Worked in a wet-lab context with the aim of synthesizing nucleic acid probes for biosensors."
+          - "Created portable biosensing solutions using self-taught python and PCB design skills, allowing for the publication of two academic papers on biosensing."
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
