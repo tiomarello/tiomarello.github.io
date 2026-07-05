@@ -7,6 +7,13 @@ cv:
 
   sections:
     Education:
+    - institution: Tufts University School of Medicine 
+        location: Boston, MA 
+        area: Medicine
+        studyType: M.D.
+        start_date: 2026
+        end_date: 2030
+      
       - institution: Boston College
         location: Chestnut Hill, MA
         area: Biology
