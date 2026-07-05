@@ -7,7 +7,7 @@ cv:
 
   sections:
     Education:
-    - institution: Tufts University School of Medicine 
+      - institution: Tufts University School of Medicine 
         location: Boston, MA 
         area: Medicine
         studyType: M.D.
