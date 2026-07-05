@@ -55,22 +55,26 @@ cv:
         highlights:
           - Perform initial work-up of patients in an ophthalmic clinic, taking a ocular history and vital signs.
           - Act as a scribe working directly with an ophthalmologist.
+
+      - company: Armstrong Ambulance
+        position: EMT-B
+        location: Arlington, MA
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Administer emergency medical care in emergent situations with thorough patient assessment and clinical excellence.
           
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
+      - title: Questbridge Scholarship 
+        date: 2026-5-31
+        awarder: Tufts University School of Medicine 
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        summary: Full-tuition scholarship awarded to an incoming medical student graduating from a partner Questbridge undergraduate institution, demonstrating both academic strength and financial need. 
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Questbridge Match Scholarship 
+        date: 2021
+        awarder: Boston College
+        summary: Full cost-of-attendance scholarship awarded to an incoming student at Boston College, who had demonstrated high academic achievement and financial need in high school.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
