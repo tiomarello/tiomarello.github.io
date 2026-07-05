@@ -29,12 +29,20 @@ cv:
       - company: Burch Group, Boston College
         position: Research Assistant
         location: Chestnut Hill, MA
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        start_date: 2022
+        end_date: 2025
         highlights:
-          - Relativity
-          - Description 2.
+          - "Assist in the fabrication of graphene-based biosensors for waste-water epidemiology."
+          - "Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions."
+
+      - company: Meyer Group, Boston College
+        position: Research Assistant
+        location: Chestnut Hill, MA
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "Work directly with a graduate student and assist in the development of oligonucleotidebased aptamer probes."
+          - "Create, run, and analyze PAGE and Agarose gels to quantify nucleotide synthesis efficacy."
     
     Experience:
       - company: Institute for Advanced Study, Princeton University
