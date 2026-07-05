@@ -181,6 +181,9 @@ layout: default
               {% elsif section_title == 'Research Experience' %}
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
+              {% elsif section_title == 'Clinical Experience' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
               {% else %}
                 <!-- Generic section -->
                 {% for entry in section_entries %}
