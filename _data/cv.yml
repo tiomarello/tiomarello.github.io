@@ -75,13 +75,18 @@ cv:
         summary: Full cost-of-attendance scholarship awarded to an incoming student at Boston College, who had demonstrated high academic achievement and financial need in high school.
     
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Electrical readout strategies of GFET biosensors for real-world requirements
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Michael Geiwitz
+          - Owen Rivers Page
+          - Marina E Nichols
+          - "**Tio Marello**"
+          - Catherine Hoar
+          - Deji Akinwande
+          - Michelle M Meyer
+          - Kenneth S Burch
+        publisher: Biosensors and Bioelectronics
+        releaseDate: 2025-07-15
 
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
