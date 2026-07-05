@@ -31,18 +31,20 @@ cv:
         location: Chestnut Hill, MA
         start_date: 2022
         end_date: 2025
+        summary: Themes and such
         highlights:
-          - "Assist in the fabrication of graphene-based biosensors for waste-water epidemiology."
-          - "Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions."
+          - Assist in the fabrication of graphene-based biosensors for waste-water epidemiology.
+          - Collaborate with cross-disciplinary partners in both Biology and Engineering to create widely adoptable, scalable biosensing solutions.
 
       - company: Meyer Group, Boston College
         position: Research Assistant
         location: Chestnut Hill, MA
         start_date: 2023
         end_date: 2024
+        summary: 
         highlights:
-          - "Work directly with a graduate student and assist in the development of oligonucleotidebased aptamer probes."
-          - "Create, run, and analyze PAGE and Agarose gels to quantify nucleotide synthesis efficacy."
+          - Work directly with a graduate student and assist in the development of oligonucleotidebased aptamer probes.
+          - Create, run, and analyze PAGE and Agarose gels to quantify nucleotide synthesis efficacy.
     
     Experience:
       - company: Institute for Advanced Study, Princeton University
